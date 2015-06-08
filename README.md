@@ -20,9 +20,9 @@ To use this package in your node.js project, run either one of the following com
 
 ```shell
 # via https
-npm install git+https://git@github.com/gregorwolf/hanatrial-auth-proxy.git
+npm install git+https://git@github.com/choas/hanatrial-auth-proxy.git
 # via ssh
-npm install git+ssh://git@github.com/gregorwolf/hanatrial-auth-proxy.git
+npm install git+ssh://git@github.com/choas/hanatrial-auth-proxy.git
 ```
 
 ## Changelog
